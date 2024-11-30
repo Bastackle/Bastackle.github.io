@@ -2,7 +2,8 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-    Welcome to my personal GitHub page! Below is a brief introduction to my academic background.  
+    I’m a 3rd-year Computer Science student passionate about coding, technology, and problem-solving.
+    Feel free to check out my projects and connect with me! 🚀
   </div>
   <img src="https://avatars.githubusercontent.com/u/149820009?v=4" alt="Logo" style="border-radius: 50%; width: 150px;">
 </div>
@@ -18,10 +19,6 @@
 - **🏫 University:** Kasetsart University at Si Racha Campus
 
 ---
-
-### 🌐 About Me  
-I’m a 3rd-year Computer Science student passionate about coding, technology, and problem-solving.  
-Feel free to check out my projects and connect with me! 🚀  
 
 ### Skills and Tools
 - 💻 Programming Languages: [e.g., Python, Java, JavaScript, C++]
