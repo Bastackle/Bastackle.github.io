@@ -1,10 +1,11 @@
 # 🌟 Thatthep Sataranaporn  
 
-<div style="text-align: right;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    Welcome to my personal GitHub page! Below is a brief introduction to my academic background.  
+  </div>
   <img src="https://avatars.githubusercontent.com/u/149820009?v=4" alt="Logo" style="border-radius: 50%; width: 150px;">
 </div>
-
-Welcome to my personal GitHub page! Below is a brief introduction to my academic background.  
 
 ---
 
