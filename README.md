@@ -1,6 +1,6 @@
 # 🌟 Thatthep Sataranaporn  
 
-![Logo](https://www.borntodev.com/wp-content/uploads/2018/09/Black_Yellow_white-1.png)
+![Logo](https://avatars.githubusercontent.com/u/149820009?v=4)
 
 Welcome to my personal GitHub page! Below is a brief introduction to my academic background.  
 
