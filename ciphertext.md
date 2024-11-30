@@ -1,6 +1,6 @@
 # Ciphertext
 
-## CISSP Student Glossary
+## [CISSP Student Glossary](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
 - **👤 CISSP Glossary - Student Guide:** Ciphertext: The altered form of a plaintext message, so as to be unreadable for anyone except the intended recipients. Something that has been turned into a secret.
 
 - **🤖 ChatGPT:** Ciphertext คือ รูปแบบที่ถูกเปลี่ยนแปลงของข้อความที่เป็นข้อความปกติ เพื่อให้ไม่สามารถอ่านได้โดยผู้ที่ไม่ได้รับอนุญาต เป็นข้อความที่ถูกแปลงให้เป็นความลับ
@@ -9,7 +9,7 @@
 
 ![image](https://www.keepersecurity.com/blog/wp-content/uploads/2024/04/Blog-Infographic-1.png)
 
-## SentinelOne
+## [SentinelOne](https://www.sentinelone.com/cybersecurity-101/cybersecurity/what-is-ciphertext/)
 - **👤 SentinelOne:** Ciphertext is the jumbled-up, unreadable string created when you apply encryption to normal, legible data called plaintext. Only an intended recipient with the correct decryption key can convert ciphertext into plaintext. Encrypting plaintext into ciphertext makes the actual information illegible and incomprehensible to unauthorized people or systems.
 
 - **🤖 ChatGPT:** Ciphertext คือ สายอักขระที่ไม่สามารถอ่านได้และถูกจัดเรียงใหม่เมื่อมีการใช้การเข้ารหัสข้อมูลที่เป็นข้อความปกติหรือที่เรียกว่า plaintext ข้อความที่เข้ารหัสนี้สามารถแปลงกลับเป็นข้อความปกติได้ก็ต่อเมื่อมีคีย์ในการถอดรหัสที่ถูกต้องเท่านั้น การเข้ารหัสข้อความปกติให้เป็นข้อความที่เข้ารหัสทำให้ไม่สามารถอ่านเดิมให้เข้าใจได้
