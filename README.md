@@ -7,7 +7,7 @@
   <p>
     Feel free to check out my projects and connect with me! 🚀
   </p>
-  <img src="https://avatars.githubusercontent.com/u/149820009?v=4" alt="Logo" style="border-radius: 50%; width: 150px;">
+  <img src="../Bastackle.github.io/img/image.jpeg" alt="Logo" style="border-radius: 50%; width: 150px;">
 </div>
 
 ---
