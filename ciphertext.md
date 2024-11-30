@@ -14,7 +14,7 @@
 
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20210224215653/fgfdgrfgrf21.png)
 
-### สรุป
+### Summary
 จากการสืบค้นข้อมูลเกี่ยวกับ Ciphertext สามารถสรุปได้ว่า Ciphertext คือผลลัพธ์ที่ได้จากการนำข้อความหรือข้อมูลแบบดั้งเดิมที่สามารถอ่านแล้วเข้าใจได้ (Plain Text) มาเข้ารหัสผ่านกระบวนการเข้ารหัส (encryption algorithm) เพื่อให้ไม่สามารถอ่านหรือเข้าใจได้ในรูปแบบเดิม โดยผู้ที่ไม่มี "Key" สำหรับการถอดรหัส (decryption) (ผู้ที่ User หรือ ระบบที่เป็นเจ้าของข้อมูลไม่อนุญาตให้อ่านได้) จะไม่สามารถทำให้ข้อมูลกลับมาเป็น Plain Text ที่เข้าใจได้อีก 
 
 ถ้าต้องการถอดรหัส Ciphertext ให้กลับมาเป็น Plain Text จะต้องใช้ Key ที่ถูกต้องตามกระบวนการถอดรหัส (decryption algorithm) เท่านั้น
@@ -22,7 +22,7 @@
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20240530193453/1.webp)
 
 ### Sample in Daily life
-การใช้ QR Code: ข้อมูลที่เข้ารหัสในรูปแบบ QR code เช่น ข้อมูลส่วนตัวหรือข้อมูลธุรกรรม ที่สามารถอ่านได้ด้วยแอปพลิเคชันที่รองรับการถอดรหัส
+- **การใช้ QR Code:** ข้อมูลที่เข้ารหัสในรูปแบบ QR code เช่น ข้อมูลส่วนตัวหรือข้อมูลธุรกรรม ที่สามารถอ่านได้ด้วยแอปพลิเคชันที่รองรับการถอดรหัส
 
 ![image](https://www.researchgate.net/publication/340700567/figure/fig2/AS:881307076796416@1587131389395/a-Encoding-data-in-QR-Codes-b-Encrypting-and-then-encoding-data-in-QR-Codes.ppm)
 
