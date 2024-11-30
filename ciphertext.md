@@ -31,4 +31,4 @@
 ![image](https://www.researchgate.net/publication/340700567/figure/fig2/AS:881307076796416@1587131389395/a-Encoding-data-in-QR-Codes-b-Encrypting-and-then-encoding-data-in-QR-Codes.ppm)
 
 ### Buddy
-- [Sathana Mongkol-IN](README)
+- [Sathana Mongkhon-IN (Ciphertext)](README)
