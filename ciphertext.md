@@ -1,6 +1,6 @@
 # Ciphertext
 
-## [CISSP Student Glossary](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
+## [CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
 - **👤 CISSP Glossary - Student Guide:** Ciphertext: The altered form of a plaintext message, so as to be unreadable for anyone except the intended recipients. Something that has been turned into a secret.
 
 - **🤖 ChatGPT:** Ciphertext คือ รูปแบบที่ถูกเปลี่ยนแปลงของข้อความที่เป็นข้อความปกติ เพื่อให้ไม่สามารถอ่านได้โดยผู้ที่ไม่ได้รับอนุญาต เป็นข้อความที่ถูกแปลงให้เป็นความลับ
