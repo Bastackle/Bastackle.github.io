@@ -8,8 +8,9 @@ Welcome to my personal GitHub page! Below is a brief introduction to my academic
 - **👤 Name:** Thatthep Sataranaporn  
 - **🆔 Student ID:** `6530200622`  
 - **🎓 Class Year:** **3rd Year**  
-- **🏫 Faculty:** Faculty of Science at Sriracha  
-- **💻 Major:** *Computer Science*  
+- **🔬 Faculty:** Faculty of Science at Sriracha  
+- **💻 Major:** *Computer Science* 
+- **🏫 University:** Kasetsart University at Si Racha Campus
 
 ---
 
