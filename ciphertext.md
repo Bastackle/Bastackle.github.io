@@ -36,7 +36,7 @@ Ciphertext: ข้อความที่ถูกแปลงให้เป�
 
 ถ้าต้องการถอดรหัส Ciphertext ให้กลับมาเป็น Plain Text จะต้องใช้ Key ที่ถูกต้องตามกระบวนการถอดรหัส (decryption algorithm) เท่านั้น
 
--[image](https://media.geeksforgeeks.org/wp-content/uploads/20240530193453/1.webp)
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20240530193453/1.webp)
 
 ### Buddy
 - [Sathana Mongkol-IN](README)
