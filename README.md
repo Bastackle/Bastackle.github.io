@@ -1,12 +1,11 @@
 # 🌟 Thatthep Sataranaporn  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <p>I’m a 3rd-year Computer Science student passionate about coding, technology, and problem-solving.</p>
-    <p>Feel free to check out my projects and connect with me! 🚀</p>
-  </div>
-  <img src="img/image.jpeg" alt="Profile Picture" style="border-radius: 50%; width: 150px;">
-</div>
+## About Me
+
+I’m a 3rd-year Computer Science student passionate about coding, technology, and problem-solving.  
+Feel free to check out my projects and connect with me! 🚀
+
+![Profile Picture](img/image.jpeg)
 
 ---
 
