@@ -4,4 +4,4 @@
 
 ## ⚒️ Tools  
 - **🎨 Design:** [Canva](https://www.canva.com) 
-- **🆔 Student ID:** [Steganography Online](https://stylesuxx.github.io/steganography/)
+- **🆔 Steganography:** [Steganography Online](https://stylesuxx.github.io/steganography/)
