@@ -27,5 +27,8 @@ Feel free to check out my projects and connect with me! 🚀
 ### Contact Me
 - 📧 Email: [thatthep.s@ku.th]
 
-### Work01
+### InfoSysSec Glossary
 - [Ciphertext](ciphertext)
+
+### Christmas & New Year 2025
+- [InfoSysSec Glossary](ecard)
