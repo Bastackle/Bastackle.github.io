@@ -31,4 +31,4 @@ Feel free to check out my projects and connect with me! 🚀
 - [Ciphertext](ciphertext)
 
 ### Christmas & New Year 2025
-- [InfoSysSec Glossary](ecard)
+- [Christmas & New Year 2025](ecard)
