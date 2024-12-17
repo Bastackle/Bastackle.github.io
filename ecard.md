@@ -1,6 +1,6 @@
 # Merry Christmas & Happy New Year (E-Card)
 
-![Merry Christmas & Happy New Year Card](img/eCardEncoded.jpeg)
+![Merry Christmas & Happy New Year Card](img/eCardEncode.png)
 
 ## ⚒️ Tools  
 - **🎨 Design:** [Canva](https://www.canva.com) 
