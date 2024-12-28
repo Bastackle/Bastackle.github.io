@@ -9,5 +9,5 @@
 
 ![image](https://cdn.sanity.io/images/sczeoy4w/production/6c35d762229583864378e27f4fc8d65b4b610086-5720x2280.png?q=80&fit=max&auto=format&dpr=1.5)
 
-**Image Source:** [https://aiven.io/developer/cdc-multiple-postgresql-tables-logical-decoding)
+**Image Source:** [Aiven](https://aiven.io/developer/cdc-multiple-postgresql-tables-logical-decoding)
 
