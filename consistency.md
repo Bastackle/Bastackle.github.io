@@ -1,6 +1,6 @@
 # Consistency
 
-## [CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
+## [DoubleCloud](https://double.cloud/blog/posts/2023/06/what-is-data-quality/)
 - **👤 DoubleCloud:** Consistency: in data refers to the coherence and harmony of values obtained from various sources. It ensures that the data conform and there are no conflicting or contradictory data points within a record or message and across different values of a specific attribute.
 
 - **🤖 ChatGPT:** Consistency หมายถึง ความต่อเนื่องและความกลมกลืนของข้อมูลจากแหล่งต่างๆ ซึ่งช่วยให้มั่นใจว่าข้อมูลมีความสอดคล้อง ไม่มีข้อขัดแย้งหรือความแตกต่างในแต่ละบันทึกหรือข้อความ รวมถึงค่าที่สอดคล้องสำหรับคุณลักษณะเฉพาะเดียวกัน
