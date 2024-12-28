@@ -34,4 +34,4 @@ Feel free to check out my projects and connect with me! 🚀
 - [Christmas & New Year 2025](ecard)
 
 ### Data Quality 
-- [Data Quality](Accuracy)
+- [Data Quality](accuracy)
