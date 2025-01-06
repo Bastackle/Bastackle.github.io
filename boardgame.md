@@ -17,6 +17,5 @@
 - [Kitchakan Sripaeng](https://T2lxddd.github.io/boardgame)
 - [Sathana Mongkhon-IN](https://SathanaM10.github.io/boardgame)
 - [Siravet Nijnirundkul](https://9Siravet.github.io/boardgame)
-- [Thatthep Sataranaporn](https://bastackle.github.io/boardgame)
 - [Tinnapop Ratchada](https://Tinnapop-1728.github.io/boardgame)
 - [Wichitchai Sapsanoi](https://6530200452.github.io/boardgame)
