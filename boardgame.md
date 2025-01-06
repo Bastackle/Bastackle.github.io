@@ -14,8 +14,9 @@
 ![image](https://cdn.sanity.io/images/sczeoy4w/production/6c35d762229583864378e27f4fc8d65b4b610086-5720x2280.png?q=80&fit=max&auto=format&dpr=1.5)
 
 ### My Team
+- [Kitchakan Sripaeng]()
 - [Sathana Mongkhon-IN]()
-- [Siravet Nijnirundkul]()
+- [Siravet Nijnirundkul](https://9Siravet.github.io/boardgame)
 - [Thatthep Sataranaporn](https://bastackle.github.io/boardgame)
 - [Tinnapop Ratchada]()
 - [Wichitchai Sapsanoi](https://6530200452.github.io/boardgame)
