@@ -18,4 +18,4 @@
 - [Siravet Nijnirundkul]()
 - [Thatthep Sataranaporn](https://bastackle.github.io/boardgame)
 - [Tinnapop Ratchada]()
-- [Wichitchai Sapsanoi]()
+- [Wichitchai Sapsanoi](https://6530200452.github.io/boardgame)
