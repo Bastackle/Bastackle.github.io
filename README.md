@@ -38,3 +38,6 @@ Feel free to check out my projects and connect with me! 🚀
 
 ### Securing the Human
 - [5 Club People](boardgame)
+
+### Security Controls
+- [Digital Door Lock](securityControls)
