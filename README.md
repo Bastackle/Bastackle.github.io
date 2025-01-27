@@ -40,4 +40,4 @@ Feel free to check out my projects and connect with me! 🚀
 - [5 Club People](boardgame)
 
 ### Security Controls
-- [Digital Door Lock](securityControls)
+- [Digital Door Lock](security-control)
