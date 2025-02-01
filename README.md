@@ -43,4 +43,4 @@ Feel free to check out my projects and connect with me! 🚀
 - [Digital Door Lock](security-control)
 
 ### 2025 PAO Elections
-- [Banglamung](security-control)
+- [Banglamung](pao-elections)
