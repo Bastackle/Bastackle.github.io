@@ -42,5 +42,5 @@ Feel free to check out my projects and connect with me! 🚀
 ### Security Controls
 - [Digital Door Lock](security-control)
 
-### PAO Elections
+### 2025 PAO Elections
 - [Banglamung](security-control)
