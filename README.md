@@ -26,24 +26,3 @@ Feel free to check out my projects and connect with me! 🚀
 
 ### Contact Me
 - 📧 Email: [thatthep.s@ku.th]
-
-### InfoSysSec Glossary
-- [Ciphertext](ciphertext)
-
-### Christmas & New Year 2025
-- [Christmas & New Year 2025](ecard)
-
-### Data Quality 
-- [Consistency](consistency)
-
-### Securing the Human
-- [5 Club People](boardgame)
-
-### Security Controls
-- [Digital Door Lock](security-control)
-
-### 2025 PAO Elections
-- [Banglamung](pao-elections)
-
-### Security Requirement
-- [File Download](security-requirement)
